@@ -9,7 +9,7 @@ I implemented classification models to determine wine quality based on physicoch
 
 Source: UCI Machine Learning Repository – Wine Quality Dataset
 
-**Features include:**
+***Features include:***
 
 Fixed acidity
 Volatile acidity
