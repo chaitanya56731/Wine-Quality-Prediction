@@ -1,4 +1,4 @@
-🍷 Wine Quality Prediction
+***🍷 Wine Quality Prediction***
 
 This project uses Machine Learning techniques to predict the quality of wine based on its physicochemical features. The dataset contains various attributes such as acidity, sugar, pH, and alcohol, which are used to classify wine quality on a scale of 0–10.
 📖 Overview
@@ -23,26 +23,26 @@ pH
 Sulphates
 Alcohol
 
-Tech Stack
+***Tech Stack***
 
 Programming Language: Python
 
-Libraries Used:
+**Libraries Used:**
 
 Pandas & NumPy (data processing)
 Matplotlib & Seaborn (data visualization)
 Scikit-learn (machine learning models)
 Jupyter Notebook (experimentation)
 
-📊 Model Performance
+**📊 Model Performance**
 Model	Accuracy	F1-Score
 Logistic Regression	0.72	0.70
 Decision Tree	0.74	0.72
 Random Forest	0.81	0.79
 
-Random Forest Classifier gave best accuracy
+***Random Forest Classifier gave best accuracy***
 
-Installation & Usage
+**Installation & Usage**
 
 1) Clone the repository:
 git clone https://github.com/chaitanya56731/wine-quality-prediction.git
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 4)Run Jupyter Notebook:
 jupyter notebook
 
-🏆 Results:
+***🏆 Results:***
 
 Achieved 83% accuracy using Gradient Boosting.
 Identified alcohol, volatile acidity, and sulphates as the most important features affecting wine quality.
