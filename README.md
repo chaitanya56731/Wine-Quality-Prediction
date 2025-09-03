@@ -63,3 +63,9 @@ jupyter notebook
 
 Achieved 83% accuracy using Gradient Boosting.
 Identified alcohol, volatile acidity, and sulphates as the most important features affecting wine quality.
+
+**🔮 Future Improvements**
+
+Use Deep Learning (Neural Networks) for higher accuracy.
+Build a Flask/Django web app for interactive predictions.
+Deploy the model using Streamlit or Heroku.
