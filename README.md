@@ -45,7 +45,7 @@ Random Forest Classifier gave best accuracy
 Installation & Usage
 
 1) Clone the repository:
-git clone https://github.com/your-username/wine-quality-prediction.git
+git clone https://github.com/chaitanya56731/wine-quality-prediction.git
 cd wine-quality-prediction
 
 2)Create and activate a virtual environment:
